@@ -1,0 +1,5 @@
+add_executable(note11 note11.c)
+add_executable(homework10A homework10A.c)
+add_executable(homework10B homework10B.c)
+add_executable(homework10C homework10C.c)
+add_executable(homework10D homework10D.c)

@@ -1,0 +1,8 @@
+add_executable(note7 note.c)
+add_executable(homework7A homework7A.c)
+add_executable(homework7B homework7B.c)
+add_executable(homework7C homework7C.c)
+add_executable(homework7D homework7D.c)
+add_executable(homework7E homework7E.c)
+add_executable(homework7F homework7F.c)
+add_executable(homework7E-model homework7E-model.c)

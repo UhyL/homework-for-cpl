@@ -1,0 +1,10 @@
+add_executable(note6 note.c)
+
+add_executable(homework6A homework6A.c)
+add_executable(homework6B homework6B.c)
+add_executable(homework6C homework6C.c)
+add_executable(homework6D homework6D.c)
+add_executable(homework6E homework6E.c)
+target_link_libraries(homework6E m)
+add_executable(homework6F homework6F.c)
+target_link_libraries(homework6F m)

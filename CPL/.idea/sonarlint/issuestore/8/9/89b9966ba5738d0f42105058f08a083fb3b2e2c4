@@ -1,0 +1,5 @@
+
+.c:S1481,"unused variable 'len'(Ñ¨û 8Ş½ÁâÏ0
+rc:S5350-"YMake the type of this variable a pointer-to-const. The current type of "str" is "char *".(æ¡Ÿ8ß½ÁâÏ0
+Vc:S1854-"=Value stored to 'str' during its initialization is never read(æ¡Ÿ8ä½ÁâÏ0
+Kc:S3584.",Potential leak of memory pointed to by 'str'(æÀö€øÿÿÿÿ8å½ÁâÏ0

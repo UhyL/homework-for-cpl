@@ -1,0 +1,18 @@
+
+bc:S5276"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(ÑèœŸûÿÿÿÿ
+gc:S3776
+"TRefactor this function to reduce its Cognitive Complexity from 40 to the 25 allowed.(Ôˆ™“
+dc:S134%"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(‹Ü¨Îþÿÿÿÿ
+dc:S134G"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(˜ªëÍùÿÿÿÿ
+Mc:S1079"5Add a field width specifier to this "%s" placeholder.(”Âä‰øÿÿÿÿ
+Hc:S1079"5Add a field width specifier to this "%s" placeholder.(Ï ¯Ê
+Mc:S1079!"5Add a field width specifier to this "%s" placeholder.(ì˜ÃÄýÿÿÿÿ
+4c:S1110""!Remove these useless parentheses.(à÷À•
+Ac:S35624".Add a "default" case to this switch statement.(Ç²‘­
+Mc:S1079)"5Add a field width specifier to this "%s" placeholder.(™±˜Óÿÿÿÿÿ
+@c:S35846"-Potential leak of memory pointed to by 'str1'(é¨Ú¯
+@c:S35846"-Potential leak of memory pointed to by 'str2'(é¨Ú¯
+Mc:S35846":Potential leak of memory pointed to by 'str_special_word1'(é¨Ú¯
+Ec:S35846"2Potential leak of memory pointed to by 'str_print'(é¨Ú¯
+Ec:S35846"2Potential leak of memory pointed to by 'str_value'(é¨Ú¯
+Dc:S35847"1Potential leak of memory pointed to by 'str_name'(”·³›

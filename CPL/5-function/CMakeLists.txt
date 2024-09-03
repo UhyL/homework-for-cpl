@@ -1,0 +1,7 @@
+add_executable(homework5A homework5A.c)
+add_executable(homework5B homework5B.c)
+target_link_libraries(homework5B m)
+add_executable(homework5C homework5C.c)
+add_executable(homework5D homework5D.c)
+add_executable(homework5E homework5E.c)
+add_executable(homework5F homework5F.c)

@@ -1,0 +1,29 @@
+D:\Toolbox\apps\CLion\ch-0\223.8617.54\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/Toolbox/apps/CLion/ch-0/223.8617.54/bin/ninja/win/x64/ninja.exe -G Ninja -S E:\CPL -B E:\CPL\cmake-build-debug
+-- The C compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/Toolbox/apps/CLion/ch-0/223.8617.54/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+CMake Error at Problem-Set/CMakeLists.txt:3 (add_executable):
+  Cannot find source file:
+
+    11-Linkedlist_Stack_Pour.c
+
+
+CMake Error at sort/CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    four_sorts.c
+
+
+CMake Error at Problem-Set/CMakeLists.txt:3 (add_executable):
+  No SOURCES given to target: 11-Linkedlist_Stack_Pour
+
+
+CMake Error at sort/CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: four_sorts
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

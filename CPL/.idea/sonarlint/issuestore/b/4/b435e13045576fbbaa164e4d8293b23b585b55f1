@@ -1,0 +1,22 @@
+
+Jc:S11174"2declaration shadows a variable in the global scope(ùæ¯§øÿÿÿÿ
+Ec:S1117@"2declaration shadows a variable in the global scope(±Úá‹
+Ec:S1117@"2declaration shadows a variable in the global scope(±Úá‹
+bc:S5276+"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(¿§Âåşÿÿÿÿ
+Tc:S5276@"Aimplicit conversion loses integer precision: 'long long' to 'int'(±Úá‹
+Jc:S1117\"2declaration shadows a variable in the global scope(Ø¯ë¯ÿÿÿÿÿ
+Jc:S1117t"2declaration shadows a variable in the global scope(Ø¯ë¯ÿÿÿÿÿ
+Kc:S1117¸"2declaration shadows a variable in the global scope(Ø¯ë¯ÿÿÿÿÿ
+Fc:S1117Ë"2declaration shadows a variable in the global scope(òõæ“
+Fc:S1117Ì"2declaration shadows a variable in the global scope(Óî”Ë
+dc:S1344"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ùæ¯§øÿÿÿÿ
+dc:S134>"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(™ºÿÿÿÿÿ
+Hc:S1079&"5Add a field width specifier to this "%s" placeholder.(ùÒ©â
+vc:S5350'"^Make the type of this variable a pointer-to-const. The current type of "position" is "char *".(ıÔ„»úÿÿÿÿ
+mc:S3776Y"URefactor this function to reduce its Cognitive Complexity from 106 to the 25 allowed.(ÕÊóşÿÿÿÿ
+rc:S995Y"[Make the type of this parameter a pointer-to-const. The current type of "str1" is "char *".(ÕÊóşÿÿÿÿ
+nc:S995Ë"[Make the type of this parameter a pointer-to-const. The current type of "str2" is "char *".(òõæ“
+Gc:S3562Í".Add a "default" case to this switch statement.(ÿƒÉÛûÿÿÿÿ
+Ac:S35841".Potential leak of memory pointed to by 'dest2'(éÂø¨
+Ac:S35841".Potential leak of memory pointed to by 'dest1'(éÂø¨
+Ec:S3519C"-Out of bound memory access (index is tainted)(¡ºÿäøÿÿÿÿ

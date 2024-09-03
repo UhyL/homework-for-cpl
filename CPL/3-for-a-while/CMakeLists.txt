@@ -1,0 +1,8 @@
+add_executable(homework3A homework3A.c)
+add_executable(homework3B homework3B.c)
+add_executable(homework3C homework3C.c)
+add_executable(homework3D homework3D.c)
+add_executable(homework3E homework3E.c)
+add_executable(homework3F homework3F.c)
+add_executable(pp3 pp3.c)
+add_executable(pp3-1 pp3-1.c)

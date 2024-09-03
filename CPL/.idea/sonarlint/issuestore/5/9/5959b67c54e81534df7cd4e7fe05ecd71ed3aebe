@@ -1,0 +1,7 @@
+
+cc:S5276ˆ"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(¼Ù•Áùÿÿÿÿ
+^c:S5276™"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(Á–Žî
+mc:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 36 to the 25 allowed.( †ÌÂüÿÿÿÿ
+_c:S134 "MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ØÈè
+ec:S134¦"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(¡Æš¹úÿÿÿÿ
+^c:S924Ÿ"FReduce the number of nested "break" statements from 2 to 1 authorized.(ð¯âùûÿÿÿÿ

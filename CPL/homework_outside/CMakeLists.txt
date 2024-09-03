@@ -1,0 +1,6 @@
+add_executable(homeworkoutside1 homeworkoutside1.c)
+add_executable(homeworkoutside2 homeworkoutside2.c)
+add_executable(homeworkoutside3 homeworkoutside3.c)
+add_executable(Herman Herman.c)
+add_executable(ISBN_number ISBN_number.c)
+add_executable(for-SE for-SE.c)

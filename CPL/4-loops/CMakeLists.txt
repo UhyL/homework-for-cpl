@@ -1,0 +1,5 @@
+add_executable(homework4A homework4A.c)
+add_executable(homework4B homework4B.c)
+add_executable(homework4C homework4C.c)
+add_executable(homework4D homework4D.c)
+add_executable(homework4E homework4E.c)

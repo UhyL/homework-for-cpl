@@ -1,0 +1,5 @@
+
+gc:S5276?"Oimplicit conversion turns floating-point number into integer: 'double' to 'int'(ŽÃ–îÿÿÿÿÿ
+gc:S3776"TRefactor this function to reduce its Cognitive Complexity from 38 to the 25 allowed.(Ôˆ™“
+dc:S134"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(¶ØÜ¹ýÿÿÿÿ
+dc:S1340"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ý†Éùøÿÿÿÿ

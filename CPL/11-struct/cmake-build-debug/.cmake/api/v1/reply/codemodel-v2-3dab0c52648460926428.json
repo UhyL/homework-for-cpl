@@ -1,0 +1,92 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "homework10A::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-homework10A-Debug-be81f674cf09b8b28130.json",
+					"name" : "homework10A",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "homework10B::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-homework10B-Debug-a76382493a1ddbbde8bb.json",
+					"name" : "homework10B",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "homework10C::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-homework10C-Debug-5fe7b6ad1a4c1078275e.json",
+					"name" : "homework10C",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "homework10D::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-homework10D-Debug-d4ec407e44cc7b983d7a.json",
+					"name" : "homework10D",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "note11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-note11-Debug-c98c969356073472490e.json",
+					"name" : "note11",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/CPL/11-struct/cmake-build-debug",
+		"source" : "E:/CPL/11-struct"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

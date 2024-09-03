@@ -1,0 +1,1 @@
+add_executable(note10 note10.c)
